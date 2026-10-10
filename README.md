@@ -17,7 +17,7 @@
   <a href="https://github.com/sohaila-emad">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/sohaila-emad">
+  <a href="https://linkedin.com/in/sohaila-emad-b1296131a">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://huggingface.co/Sohaila052">
@@ -240,7 +240,7 @@ Developed a GUI application for classifying sinus endoscopy images.
 <p align="center">
   <a href="https://github.com/sohaila-emad">Explore my repositories</a>
   ·
-  <a href="https://linkedin.com/in/sohaila-emad">Connect on LinkedIn</a>
+  <a href="https://linkedin.com/in/sohaila-emad-b1296131a">Connect on LinkedIn</a>
   ·
   <a href="https://huggingface.co/Sohaila052">Find my models on Hugging Face</a>
 </p>
