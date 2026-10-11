@@ -1,7 +1,7 @@
 
 <!-- Sohaila Emad | GitHub Profile README -->
 
-<h1 align="center">Hey, I'm Sohaila Emad</h1>
+<h1 align="center">🌠Hey, I'm Sohaila Emad🩷☝️</h1>
 
 <h3 align="center">
   Biomedical Engineering Student · AI/ML · Data Engineering
