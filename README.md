@@ -145,7 +145,7 @@ Designed a data warehouse workflow using ERP and CRM source data.
 
 ### 6. 3elty — Family Health App
 
-**Web Development · Healthcare Technology**
+**App Development · Healthcare Technology**
 
 An Arabic-first family health application concept focused on organizing family health information in one place.
 
